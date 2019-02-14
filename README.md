@@ -3,6 +3,12 @@
 A PhoneGap Hello World template
 
 ## Usage
+- **動かすにはphonegapのCLIが必要**
+
+```console
+npm i -g phonegap
+phonegap serve
+```
 
 #### PhoneGap CLI
 
